@@ -1,0 +1,50 @@
+{
+	"storyName": "Extras",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"candysale",
+			"T",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"baseball",
+			"T",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bang",
+			"T",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extras"
+}

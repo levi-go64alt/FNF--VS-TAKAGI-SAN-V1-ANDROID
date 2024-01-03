@@ -1,0 +1,41 @@
+{
+	"storyName": "VSnishikata",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"yearning",
+			"N",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"focus",
+			"N",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
